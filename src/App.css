@@ -1,0 +1,23 @@
+
+.class-container{
+  background-color: khaki;
+}
+
+input{
+  padding: 10px;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.item-container{
+  text-align: left;
+}
+
+.kg-row{
+  margin: 12px 5px;
+}
+
+.kg-button{
+  min-width: 80px;
+}
